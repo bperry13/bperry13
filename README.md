@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bperry13
 - 👀 I’m interested in blockchains and web3
-- 🌱 I’m currently learning distributed systems in java (ASU SER316, Summer 2022)
+- 🌱 I’m currently learning distributed systems in java (Summer 2022)
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me bperry13@asu.edu
 

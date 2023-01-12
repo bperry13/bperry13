@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bperry13
 - 👀 I’m interested in web development a business intelligence
 - 🌱 I’m currently learning distributed systems in java and react native web dev 
-- 💞️ I’m looking to collaborate on react native projects
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me bperry13@asu.edu
 
 <!---

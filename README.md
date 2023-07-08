@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bperry13
 - 👀 I’m interested in web development and devops
-- 🌱 I’m currently learning distributed systems in java and react native web dev 
+- 🌱 I’m currently learning javascript with the react framework
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me bperry13@asu.edu
 

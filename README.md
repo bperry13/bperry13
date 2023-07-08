@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bperry13
+- 👋 Hi, I’m Brett
 - 👀 I’m interested in web development and devops
 - 🌱 I’m currently learning javascript with the react framework
 - 💞️ I’m looking to collaborate on anything

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brett
 - 👀 I’m interested in web development and devops
 - 🌱 I’m currently learning javascript with the react framework
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me bperry13@asu.edu
 
 <!---

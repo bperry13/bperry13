@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brett
 - 👀 I’m interested in web development and devops
-- 🌱 I’m currently learning scripting in Go, Python, and Bash. Looking forward to Ansible and Terraform.
+- 🌱 I’m currently learning React, TypeScript, and PostgreSQL
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me bperry13@asu.edu
 

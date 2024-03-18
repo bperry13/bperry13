@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and devops
 - 🌱 I’m currently learning React, TypeScript, and PostgreSQL
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me bperry13@asu.edu
+- 📫 How to reach me brettperry7@gmail.com
 
 <!---
 bperry13/bperry13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

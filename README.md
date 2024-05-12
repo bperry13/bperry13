@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brett
 - 👀 I’m interested in web development and devops
-- 🌱 I’m currently learning React, TypeScript, and PostgreSQL
+- 🌱 I’m currently learning React, Python, and Docker
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me brettperry7@gmail.com
 

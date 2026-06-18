@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Brett
-- 👀 I’m interested in web development and devops
-- 🌱 I’m currently working with Linux, React, Python, FastAPI, and Docker
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me brettperry7@gmail.com
+- 👀 I’m interested in Web Development, DevOps, and Agentic AI
+- I enjoy supporting small businesses entering the digital fronteir
+- 📫 You can contact me at https://brettperry.dev
 
 <!---
 bperry13/bperry13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
